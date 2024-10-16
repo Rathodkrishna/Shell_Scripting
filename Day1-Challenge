@@ -1,0 +1,15 @@
+#### Simple Day-1 Project to Display output ###
+
+
+
+#!/bin/bash
+
+<< note  
+Simple Command output 
+note
+
+echo "This is an new Project"
+
+echo "What is the time: "
+
+date;uptime
